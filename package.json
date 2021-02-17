@@ -1,0 +1,21 @@
+{
+    "name": "terrorifica",
+    "version": "1.0.0",
+    "description": "Terrorifica Web Site",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index",
+        "dev": "nodemon src"
+    },
+    "keywords": [],
+    "author": "Cyb3rd3m0n",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.5",
+        "express": "^4.17.1",
+        "morgan": "^1.10.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
