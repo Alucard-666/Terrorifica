@@ -1,4 +1,4 @@
-# Cydemic Web Site
+# Terrorifica Web Site
 This application was created with the intention to share a bit of knowledge about JavaScript and provide the opportunity to have a template to create an easy web site for your personal use, educational, etc
 
 In order to use this application you would require to have installed several applications on your local computer, see below:
