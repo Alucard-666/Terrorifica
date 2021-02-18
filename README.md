@@ -14,7 +14,7 @@ Once you have downloaded and installed the above apps, you would need to install
 
 1. Open Visual Studio Code > Click on Terminal tab and then new terminal.
 2. After that, you can go to the path where you would like to save the project and then run the command "git clone https://github.com/Alucard-666/Terrorifica.git". It will start downloading the project to your local machine.
-3. Once you have cloned the project > go within the folder using "cd Cydemic".
+3. Once you have cloned the project > go within the folder using "cd Terrorifica".
 4. Then, you can run "npm install" to install the require node modules and dependencies to run your code.
 5. Finally, run the command "nodemon src" to start the app.
 
